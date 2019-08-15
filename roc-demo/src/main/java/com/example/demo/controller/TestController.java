@@ -17,6 +17,7 @@ public class TestController {
     @GetMapping(value = "/test")
     public static String test(){
 		String a = "456";
+		String b = "789"
         return "helloWorld";
     }
 
