@@ -18,7 +18,7 @@ public class TestController {
     public static String test(){
 		String a = "456";
 		String b = "789";
-		String c = "999";
+		String c = "777";
         return "helloWorld";
     }
 
